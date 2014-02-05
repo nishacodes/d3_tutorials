@@ -1,0 +1,15 @@
+text {
+  font: bold 48px monospace;
+}
+
+.enter {
+  fill: hotpink;
+}
+
+.update {
+  fill: #333;
+}
+
+.exit {
+  fill: royalblue;
+}
